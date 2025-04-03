@@ -20,10 +20,10 @@ Vue 3 • Firebase • Supabase • Git • Docker • WordPress • Vite • Fi
 ## 💻 Projects
 
 - 🎯 **Neon Digital** – Fully responsive marketing website (HTML, CSS, Tailwind, Vite)  
-  [GitHub](https://github.com/andric-dusica/neon-digital)
+  [GitHub](https://github.com/andric-dusica/neon_digital)
 
 - 💬 **Chattift** – React chat interface with i18n & editable messages  
-  [GitHub](https://github.com/andric-dusica/chattift-project)
+  [GitHub](https://github.com/andric-dusica/chainlit-project)
 
 ### 💻 Languages and Tools
 
