@@ -11,11 +11,6 @@ Frontend Developer with 5+ years of experience in building responsive, accessibl
 ## 🛠 Skills
 HTML5 • CSS3 • Sass • JavaScript • React • Tailwind CSS  
 Vue 3 • Firebase • Supabase • Git • Docker • WordPress • Vite • Figma
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dusica-andric/)
-
-
 
 ## 💻 Projects
 
